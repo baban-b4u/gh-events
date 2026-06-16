@@ -1,7 +1,7 @@
 import { string } from 'prop-types';
 
 import './HelpBox.css';
-
+//adding comment to cancel workflow
 function HelpBox({ title, text }) {
   return (
     <article className="help-box">
